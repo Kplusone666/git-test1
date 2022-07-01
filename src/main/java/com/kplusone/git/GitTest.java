@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("master test");
         System.out.println("推送到GitHub");
+        System.out.println("拉取到IDEA");
     }
 }
